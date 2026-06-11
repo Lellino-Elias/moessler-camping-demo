@@ -220,7 +220,6 @@ export const moessler: CampsiteConfig = {
     mail: "camping@moessler.at",
     facebook: "https://www.facebook.com/campingmoessler",
     adresse: "Glanzerstraße 24 · 9873 Döbriach am Millstätter See · Kärnten",
-    coords: { lat: 46.7743522, lng: 13.6555379 },
   },
 
   languages: ["DE", "EN", "IT", "NL"],
