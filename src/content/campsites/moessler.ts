@@ -215,6 +215,7 @@ export const moessler: CampsiteConfig = {
   },
 
   kontakt: {
+    coords: { lat: 46.774342, lng: 13.653663 },
     tel: "+43 4246 77 35",
     telHref: "tel:+4342467735",
     mail: "camping@moessler.at",
