@@ -129,17 +129,17 @@ export const moessler: CampsiteConfig = {
       {
         title: "Beheiztes Kinderbecken",
         text: "Ein eigenes beheiztes Kinderbecken sorgt dafür, dass es auch die Kleinsten immer schön warm haben.",
-        image: { src: `${IMG}/kasperltheater.webp`, alt: "Familienprogramm am Schwimmbad Camping Mössler" },
+        image: { src: `${IMG}/kinderbecken-pool.webp`, alt: "Beheiztes Erlebnisbad mit Schwimmern von oben am Schwimmbad Camping Mössler" },
       },
       {
         title: "Drei Spielplätze & Riesenpendelschaukel",
         text: "Gleich drei Spielplätze plus Riesenpendelschaukel, Tischtennis sowie Fußball- und Beachvolleyballplatz — Bewegung pur.",
-        image: { src: `${IMG}/kasperltheater.webp`, alt: "Familienprogramm am Schwimmbad Camping Mössler" },
+        image: { src: `${IMG}/kasperltheater.webp`, alt: "Kinder beim Familienprogramm am Schwimmbad Camping Mössler" },
       },
       {
         title: "Kostenlose Kinderbetreuung",
         text: "Im Juli, August und Anfang September gibt es kostenlose Kinderbetreuung mit kreativem Basteln.",
-        image: { src: `${IMG}/kasperltheater.webp`, alt: "Familienprogramm am Schwimmbad Camping Mössler" },
+        image: { src: `${IMG}/kinderbetreuung-basteln.webp`, alt: "Kinder beim kreativen Basteln mit Betreuer am Schwimmbad Camping Mössler" },
       },
     ],
   },
