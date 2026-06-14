@@ -95,17 +95,17 @@ export const moessler: CampsiteConfig = {
     features: [
       {
         title: "Edelstahl-Erlebnisbad (9 × 19 m)",
-        text: "Das Highlight des Platzes: ein modernes Erlebnisbad aus Edelstahl mit Luftwhirlbank, Schwallbrause, Massagedüsen und Bodenblubber — inklusive für Campinggäste.",
+        text: "Edelstahl-Erlebnisbad mit Luftwhirlbank, Schwallbrause, Massagedüsen und Bodenblubber — inklusive für Campinggäste.",
         image: { src: `${IMG}/erlebnisbad-panorama.webp`, alt: "Erlebnisbad mit modernem Poolgebäude und Liegebereich am Schwimmbad Camping Mössler" },
       },
       {
         title: "Parzellierte Komfortstellplätze",
-        text: "Großzügige, begrünte Stellplätze von rund 65 bis 100 m² — jeder mit eigenem Strom- und Wasseranschluss, Abwasser, TV (DVB-C/S) und kostenlosem WLAN.",
+        text: "Begrünte Stellplätze (65–100 m²) mit Strom, Wasser, Abwasser, TV (DVB-C/S) und kostenlosem WLAN.",
         image: { src: `${IMG}/komfort-stellplaetze.webp`, alt: "Begrünte, parzellierte Stellplätze mit Wohnwagen am Schwimmbad Camping Mössler" },
       },
       {
         title: "Thermalwarmes Wasser — 30 °C",
-        text: "Das beheizte Becken hat angenehme 30 °C und ist von Ende April bis Mitte Oktober in Betrieb — mit Indoor-Einstieg durch einen Schwimmtunnel ins Freie.",
+        text: "Das Becken hat 30 °C und ist von Ende April bis Mitte Oktober in Betrieb — mit Tunnel-Einstieg ins Freie.",
         image: { src: `${IMG}/erlebnisbad-30grad.webp`, alt: "Dampfendes, beheiztes Erlebnisbad am Abend am Schwimmbad Camping Mössler" },
       },
     ],
