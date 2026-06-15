@@ -45,17 +45,17 @@ export const moessler: CampsiteConfig = {
     {
       title: "Eigenes Erlebnisbad (30 °C)",
       text: "Modernes Edelstahl-Erlebnisbad (9 × 19 m) mit thermalwarmem Wasser und Indoor-Einstieg — exklusiv für unsere Campinggäste.",
-      image: { src: `${IMG}/erlebnisbad-sommer.webp`, alt: "Edelstahl-Erlebnisbad des Schwimmbad Campings Mössler mit Glasgebäude und Bergen im Hintergrund" },
+      image: { src: `${IMG}/erlebnisbad-sonnig.webp`, alt: "Edelstahl-Erlebnisbad des Schwimmbad Campings Mössler mit modernem Poolgebäude, Palme und orangefarbenen Liegestühlen" },
     },
     {
       title: "Der Millstätter See",
       text: "Nur rund 500 m vom Platz — und mit der Mössler See Card kommst du gratis in alle örtlichen Strandbäder am See.",
-      image: { src: `${IMG}/millstaetter-see.webp`, alt: "Panoramablick über den Millstätter See in Kärnten" },
+      image: { src: `${IMG}/millstaetter-see-blick.webp`, alt: "Weitsicht über den tiefblauen Millstätter See mit Bergpanorama in Kärnten" },
     },
     {
       title: "Berge & Natur ringsum",
       text: "Eingebettet zwischen Mirnock und Millstätter See — ideale Ausgangslage für Wanderungen und Radtouren in der Kärntner Bergwelt.",
-      image: { src: `${IMG}/mirnock-ausblick.webp`, alt: "Ausblick vom Mirnock auf den Millstätter See mit Almwiese und Rastplatz" },
+      image: { src: `${IMG}/mirnock-gipfel.webp`, alt: "Wanderpaar am Mirnock-Gipfel mit Blick auf den Millstätter See bei Sonnenuntergang" },
     },
   ],
 
@@ -85,7 +85,7 @@ export const moessler: CampsiteConfig = {
   saison: { von: "März", bis: "November" },
 
   hero: {
-    aerial: { src: `${IMG}/hero-luftaufnahme.webp`, alt: "Luftaufnahme des Schwimmbad Campings Mössler mit Erlebnisbad und parzellierten Stellplätzen in Döbriach" },
+    aerial: { src: `${IMG}/hero-luftaufnahme-2.webp`, alt: "Luftaufnahme des Schwimmbad Campings Mössler mit Erlebnisbad und parzellierten Stellplätzen in Döbriach" },
   },
 
   camping: {
@@ -96,17 +96,17 @@ export const moessler: CampsiteConfig = {
       {
         title: "Edelstahl-Erlebnisbad (9 × 19 m)",
         text: "Edelstahl-Erlebnisbad mit Luftwhirlbank, Schwallbrause, Massagedüsen und Bodenblubber — inklusive für Campinggäste.",
-        image: { src: `${IMG}/erlebnisbad-panorama.webp`, alt: "Erlebnisbad mit modernem Poolgebäude und Liegebereich am Schwimmbad Camping Mössler" },
+        image: { src: `${IMG}/erlebnisbad-pool-sommer.webp`, alt: "Edelstahl-Erlebnisbad des Schwimmbad Campings Mössler mit Liegebereich, Palme und Bergblick an einem sonnigen Sommertag" },
       },
       {
         title: "Parzellierte Komfortstellplätze",
         text: "Begrünte Stellplätze (65–100 m²) mit Strom, Wasser, Abwasser, TV (DVB-C/S) und kostenlosem WLAN.",
-        image: { src: `${IMG}/komfort-stellplaetze.webp`, alt: "Begrünte, parzellierte Stellplätze mit Wohnwagen am Schwimmbad Camping Mössler" },
+        image: { src: `${IMG}/stellplaetze-gruen.webp`, alt: "Begrünte, parzellierte Stellplätze mit Wohnwagen und Bäumen am Schwimmbad Camping Mössler" },
       },
       {
         title: "Thermalwarmes Wasser — 30 °C",
         text: "Das Becken hat 30 °C und ist von Ende April bis Mitte Oktober in Betrieb — mit Tunnel-Einstieg ins Freie.",
-        image: { src: `${IMG}/erlebnisbad-30grad.webp`, alt: "Dampfendes, beheiztes Erlebnisbad am Abend am Schwimmbad Camping Mössler" },
+        image: { src: `${IMG}/erlebnisbad-dampf.webp`, alt: "Dampfendes, beheiztes Erlebnisbad (30 °C) in der Dämmerung am Schwimmbad Camping Mössler" },
       },
     ],
   },
@@ -119,7 +119,7 @@ export const moessler: CampsiteConfig = {
       {
         title: "Familien- & Kinderprogramm",
         text: "In den Ferienzeiten warten besondere Veranstaltungen für Kinder und Familien — vom Kasperltheater bis zum kreativen Basteln.",
-        image: { src: `${IMG}/kasperltheater.webp`, alt: "Kasperltheater mit Familien am Schwimmbad Camping Mössler" },
+        image: { src: `${IMG}/kasperltheater-neu.webp`, alt: "Kasperltheater mit vielen Familien und Kindern am Schwimmbad Camping Mössler" },
       },
       {
         title: "Indoor-Spielplatz & Softplay",
@@ -134,7 +134,7 @@ export const moessler: CampsiteConfig = {
       {
         title: "Drei Spielplätze & Riesenpendelschaukel",
         text: "Gleich drei Spielplätze plus Riesenpendelschaukel, Tischtennis sowie Fußball- und Beachvolleyballplatz — Bewegung pur.",
-        image: { src: `${IMG}/kasperltheater.webp`, alt: "Kinder beim Familienprogramm am Schwimmbad Camping Mössler" },
+        image: { src: `${IMG}/einfahrt-moessler.webp`, alt: "Einfahrt zum Mössler Schwimmbad Camping mit buntem Blumenbeet" },
       },
       {
         title: "Kostenlose Kinderbetreuung",
@@ -152,22 +152,22 @@ export const moessler: CampsiteConfig = {
       {
         title: "Geführte Wanderungen",
         text: "Beim Natur-Aktiv-Programm geht es kostenlos auf geführte Touren — etwa zur Schluchtenwanderung mit Lagerfeuer.",
-        image: { src: `${IMG}/schluchtenwanderung.webp`, alt: "Geführte Schluchtenwanderung mit Lagerfeuer und Kindern" },
+        image: { src: `${IMG}/schlucht-lagerfeuer.webp`, alt: "Geführte Schluchtenwanderung mit Lagerfeuer und Kindern am Schwimmbad Camping Mössler" },
       },
       {
         title: "Mountainbike & Radtouren",
         text: "Kostenlos geführte Radtouren erschließen die Berge über dem Millstätter See — Tourenvielfalt für jedes Level.",
-        image: { src: `${IMG}/mountainbike-tour.webp`, alt: "Mountainbike-Gruppentour hoch über dem Millstätter See" },
+        image: { src: `${IMG}/mountainbike-see.webp`, alt: "Mountainbike-Gruppe auf Schotterweg hoch über dem Millstätter See in Kärnten" },
       },
       {
         title: "Kräuterworkshops",
         text: "Aus dem eigenen Kräutergarten: Workshops rund um Wildkräuter — etwa selbst gemachter Hollersaft.",
-        image: { src: `${IMG}/kraeuterworkshop.webp`, alt: "Kräuterworkshop mit Holunderblüten am Schwimmbad Camping Mössler" },
+        image: { src: `${IMG}/kraeuterworkshop-gross.webp`, alt: "Kräuterworkshop mit Holunderblüten — drei Teilnehmerinnen am Schwimmbad Camping Mössler" },
       },
       {
         title: "Bogenschießen",
         text: "Auf dem platzeigenen Pfeil-und-Bogen-Platz wird jeder zum Robin Hood — Schnuppern für Groß und Klein.",
-        image: { src: `${IMG}/bogenschiessen.webp`, alt: "Bogenschießen im Wald am Schwimmbad Camping Mössler" },
+        image: { src: `${IMG}/bogenschiessen-wald.webp`, alt: "Bogenschütze mit Pfeil und Bogen im Wald beim Schwimmbad Camping Mössler" },
       },
     ],
   },
@@ -188,10 +188,10 @@ export const moessler: CampsiteConfig = {
       "Erlebnisbad bei Tag und Nacht, der Millstätter See und das bunte Familienleben — ein paar Eindrücke vom Schwimmbad Camping Mössler in Döbriach.",
     tag: "März bis November",
     images: [
-      { src: `${IMG}/erlebnisbad-nacht.webp`, alt: "Beheiztes Erlebnisbad und beleuchtetes Poolgebäude am Abend" },
-      { src: `${IMG}/freibad-bergblick.webp`, alt: "Edelstahl-Freibad mit Blick auf die Berge am Schwimmbad Camping Mössler" },
-      { src: `${IMG}/einfahrt-moessler.webp`, alt: "Einfahrt zum Mössler Schwimmbad Camping mit Blumenbeet" },
-      { src: `${IMG}/kinderprogramm.webp`, alt: "Kinder beim Ferienprogramm am Schwimmbad Camping Mössler" },
+      { src: `${IMG}/erlebnisbad-nacht.webp`, alt: "Beleuchtetes Erlebnisbad-Gebäude mit spiegelglattem Edelstahl-Pool bei Nacht am Schwimmbad Camping Mössler" },
+      { src: `${IMG}/see-blick-mirnock.webp`, alt: "Panoramablick auf den Millstätter See von der Mirnock-Alm mit Rastbank" },
+      { src: `${IMG}/wandern-millstaettersee.webp`, alt: "Wanderin auf dem Mirnock mit Blick auf den Millstätter See und Almhütten" },
+      { src: `${IMG}/wandern-gipfel.webp`, alt: "Wanderpaar am Gipfel mit weitem Blick auf den Millstätter See in Kärnten" },
     ],
   },
 
